@@ -8,25 +8,25 @@ const Home = () => {
             id: 1,
             title: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
             desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A possimus excepturi aliquid nihil cumque ipsam facere aperiam at! Ea dolorem ratione sit debitis deserunt repellendus numquam ab vel perspiciatis corporis!",
-            img: "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            img: "https://cdn.dribbble.com/userupload/3963285/file/original-452b5b19a31c170bcfd97b5797fda22e.png?compress=1&resize=752x",
       },
       {
             id: 2,
             title: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
             desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A possimus excepturi aliquid nihil cumque ipsam facere aperiam at! Ea dolorem ratione sit debitis deserunt repellendus numquam ab vel perspiciatis corporis!",
-            img: "https://images.pexels.com/photos/6489663/pexels-photo-6489663.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            img: "https://cdn.dribbble.com/userupload/4456172/file/original-849a5ee171627bc15f666d477cdc0dad.png?compress=1&resize=752x",
       },
       {
             id: 3,
             title: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
             desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A possimus excepturi aliquid nihil cumque ipsam facere aperiam at! Ea dolorem ratione sit debitis deserunt repellendus numquam ab vel perspiciatis corporis!",
-            img: "https://images.pexels.com/photos/4230630/pexels-photo-4230630.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            img: "https://cdn.dribbble.com/userupload/4456053/file/original-5fc86551d33b2738aaaf7b13c31ff7b7.jpg?compress=1&resize=752x",
       },
       {
             id: 4,
             title: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
             desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A possimus excepturi aliquid nihil cumque ipsam facere aperiam at! Ea dolorem ratione sit debitis deserunt repellendus numquam ab vel perspiciatis corporis!",
-            img: "https://images.pexels.com/photos/6157049/pexels-photo-6157049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            img: "https://cdn.dribbble.com/userupload/4452398/file/original-256efd43dd2cdebfd3074e4793b0ad2e.png?compress=1&resize=752x",
        },
      ];
     
