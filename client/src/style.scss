@@ -43,7 +43,7 @@ $lightGreen : #D2DAFF;
                 button {
                     padding: 10px;
                     border: none;
-                    background-color: teal;
+                    background-color: #B1B2FF;
                     cursor: pointer;
                     color: white;
                 }
@@ -100,9 +100,9 @@ $lightGreen : #D2DAFF;
                         border: 1px solid white;
 
                         &:hover {
-                            color: teal;
+                            color: #B1B2FF;
                             background-color: white;
-                            border: 1px solid teal;
+                            border: 1px solid #B1B2FF;
                         }
                     }
                 }
@@ -183,8 +183,8 @@ $lightGreen : #D2DAFF;
                             border: none;
                             cursor: pointer;
                             background-color: white;
-                            border: 1px solid teal;
-                            color: teal;
+                            border: 1px solid #B1B2FF;
+                            color: #B1B2FF;
 
                             &:hover {
                                 border: 1px solid white;
